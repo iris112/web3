@@ -2014,7 +2014,7 @@ textarea.form-control {
   .progress-container .progress-badge {
     color: #888;
     font-size: 0.8571em;
-    text-transform: uppercase; }
+  }
   .progress-container .progress {
     height: 1px;
     border-radius: 0;
